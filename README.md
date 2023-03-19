@@ -1,6 +1,8 @@
 
-# notion-export-ical
+# notion-ical
 
-Convert Notion CSV+Markdown exports to iCal format
+Convert a Notion database to iCal events.
+
+Supports Notion API access and Notion exports.
 
 <!-- vim: set conceallevel=2 et ts=2 sw=2: -->
